@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # UART Transmitter (Verilog)
 
 ## 📌 Overview
@@ -15,7 +12,7 @@ Features:
 - `tx_start` signal to begin transmission
 - `tx_done` flag when transmission is complete
 
----
+
 
 ## 🖼 UART Frame Format
 
