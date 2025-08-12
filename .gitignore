@@ -1,0 +1,35 @@
+# Editor/temp
+*~ 
+*.swp
+.DS_Store
+
+# Verilog/Vivado outputs
+*.jou
+*.log
+*.wdb
+*.pb
+*.sim
+*.cache
+*.checkpoint
+*.str
+*.bit
+*.bin
+*.ltx
+*.lso
+*.xpr
+.ip_user_files/
+.hw/
+.sdk/
+.project
+.settings/
+.vivado/
+webtalk.log
+
+# Simulation output
+*.vcd
+*.fst
+*.dump
+
+# OS stuff
+Thumbs.db
+
